@@ -46,35 +46,5 @@
         "y": 480,
         "z": -1500,
         "panorama_path": "../public/frames\\frame_7.jpg"
-    },
-    {
-        "x": 960,
-        "y": 480,
-        "z": -1500,
-        "panorama_path": "../public/frames\\frame_8.jpg"
-    },
-    {
-        "x": 960,
-        "y": 480,
-        "z": -1500,
-        "panorama_path": "../public/frames\\frame_9.jpg"
-    },
-    {
-        "x": 960,
-        "y": 480,
-        "z": -1500,
-        "panorama_path": "../public/frames\\frame_10.jpg"
-    },
-    {
-        "x": 960,
-        "y": 480,
-        "z": -1500,
-        "panorama_path": "../public/frames\\frame_11.jpg"
-    },
-    {
-        "x": 960,
-        "y": 480,
-        "z": -1500,
-        "panorama_path": "../public/frames\\frame_12.jpg"
     }
 ]
